@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\kol\source\repos\DynamicLinkList\DynamicLinkList\Source.c(10,1): warning C4005: 'OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : see previous definition of 'OVERFLOW'
+  DynamicLinkList.vcxproj -> C:\Users\kol\source\repos\DynamicLinkList\Debug\DynamicLinkList.exe

@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\kol\source\repos\Data_Structure_by_YanWeiMin\DynamicLink\Source.c(10,1): warning C4005: 'OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : see previous definition of 'OVERFLOW'
+C:\Users\kol\source\repos\Data_Structure_by_YanWeiMin\DynamicLink\Source.c(29,11): warning C4101: 'data': unreferenced local variable
+C:\Users\kol\source\repos\Data_Structure_by_YanWeiMin\DynamicLink\Source.c(28,13): warning C4101: 'position': unreferenced local variable
+  DynamicLink.vcxproj -> C:\Users\kol\source\repos\Data_Structure_by_YanWeiMin\Debug\DynamicLink.exe

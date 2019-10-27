@@ -1,0 +1,5 @@
+﻿  evaluate_expression.c
+  main.c
+  my_stack.c
+  Generating Code...
+  EvaluateExpression.vcxproj -> C:\Users\kol\source\repos\EvaluateExpression\Debug\EvaluateExpression.exe
