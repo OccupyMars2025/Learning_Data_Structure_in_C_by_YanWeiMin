@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\kol\source\repos\StringOperation\StringOperation\main.c(21,39): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  StringOperation.vcxproj -> C:\Users\kol\source\repos\StringOperation\Debug\StringOperation.exe
